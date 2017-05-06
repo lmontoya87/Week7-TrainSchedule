@@ -1,0 +1,32 @@
+html, body {
+	margin: 0px auto;
+}
+
+.jumbotron {
+	background-color: #222;
+	color: white;
+	text-align: center;
+}
+
+.panel-default {
+	border: 1px solid blue;
+}
+
+.panel-default>.panel-heading { 
+	background-color: #00f;
+	font-weight: bold;
+	color: white;
+}
+
+.table { 	
+	font-weight: bold;	
+}
+
+form {
+	padding: 10px;
+}
+
+#addUser {
+	background-color: #00f;
+	color: white;
+}
